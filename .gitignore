@@ -16,3 +16,5 @@ clippy-target/
 *.gcno
 *.gcda
 *.gcov
+
+rustlings/
